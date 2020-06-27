@@ -13,4 +13,4 @@ gradlew
 .gradle
 gradle
 build
-/app/src/main/assets/thing.properties
+app/src/main/assets/thing.properties
